@@ -48,7 +48,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/task_reminder.git
+git clone https://github.com/ayaz-hs-dev/Task_Reminder_App.git
 cd task_reminder
 
 
